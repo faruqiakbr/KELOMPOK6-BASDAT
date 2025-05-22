@@ -980,7 +980,7 @@ private Map<String, Integer> hargaObat;
         });
 
         jLabel_Harga_Obat.setFont(new java.awt.Font("Bodoni MT", 1, 18)); // NOI18N
-        jLabel_Harga_Obat.setText("Harga Obat");
+        jLabel_Harga_Obat.setText("Harga Total Obat");
 
         jTextField_Harga_Obat.setEditable(false);
         jTextField_Harga_Obat.addActionListener(new java.awt.event.ActionListener() {

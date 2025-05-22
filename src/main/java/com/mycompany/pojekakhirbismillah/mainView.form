@@ -1558,7 +1558,7 @@
                                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                                   <Font name="Bodoni MT" size="18" style="1"/>
                                 </Property>
-                                <Property name="text" type="java.lang.String" value="Harga Obat"/>
+                                <Property name="text" type="java.lang.String" value="Harga Total Obat"/>
                               </Properties>
                               <AuxValues>
                                 <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
